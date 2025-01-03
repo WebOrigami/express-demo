@@ -1,0 +1,6 @@
+{
+  index.html: "<h1>Hello, world!</h1>"
+  about: {
+    index.html: "<h1>About us</h1>"
+  }
+}
