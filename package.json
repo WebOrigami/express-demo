@@ -4,7 +4,7 @@
   "main": "src/app.js",
   "type": "module",
   "dependencies": {
-    "@weborigami/origami": "0.2.4",
+    "@weborigami/origami": "0.2.5",
     "express": "^4.17.1"
   },
   "scripts": {
